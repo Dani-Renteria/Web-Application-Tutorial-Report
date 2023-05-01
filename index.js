@@ -32,7 +32,7 @@ exports.handler = async (event) => {
     let name = JSON.stringify(`Hello from Lambda, ${event.firstName} ${event.lastName}`);
     // Create JSON object with parameters for DynamoDB and store in a variable
     let params = {
-        TableName:'HelloWorldDatabase',
+        TableName:'HelloWorldDataBase',
         Item: {
             'ID': name,
             'LatestGreetingTime': now
