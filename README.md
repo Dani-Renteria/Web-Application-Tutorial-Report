@@ -7,3 +7,5 @@ In order to run this code you will need a few prerequisites:
 2: A word editor to write and edit the JavaScript, HTML, and JSON files from the tutorial. 
 
 3: And finally a web browser to use the AWS Amplifly Console which will temporarily hold your web applicaiton. 
+
+4: Find full tutorial here: https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/ 
